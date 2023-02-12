@@ -21,12 +21,12 @@ No-show (True or False)
 # Conclusion
 - The patients registered at the hospital predominatly female accounting to more than 70% of total patients.
 - Although Females accounted for most patients in the hospital, 65% of absentees were females
-The Adults had the highest overall population in the hospital, while the Youths had the least... it is safe to say there are healthy youths in the community!
-Seniors had the lowest number of people who didn't show up while Adults had the highest
-The clinic doesn't operate on Sundays.
-Saturdays was the least in terms of patients' population, this could infer that only emergency cases are treated on Saturdays.
-The population of absentees seems to be consistent from Mondays to Fridays.
-The busiest days are Tuesdays, closely followed by Wednesdays and Mondays, in that order.
-Most patients had their appointments on the same day it was scheduled
-No SMS were sent on the day and the day after missing appointments
-The number of Present patients who had missed their initial appointment date increased upon sending SMS.
+- The Adults had the highest overall population in the hospital, while the Youths had the least... it is safe to say there are healthy youths in the community!
+- Seniors had the lowest number of people who didn't show up while Adults had the highest
+- The clinic doesn't operate on Sundays.
+- Saturdays was the least in terms of patients' population, this could infer that only emergency cases are treated on Saturdays.
+- The population of absentees seems to be consistent from Mondays to Fridays.
+- The busiest days are Tuesdays, closely followed by Wednesdays and Mondays, in that order.
+- Most patients had their appointments on the same day it was scheduled
+- No SMS were sent on the day and the day after missing appointments
+- The number of Present patients who had missed their initial appointment date increased upon sending SMS.
