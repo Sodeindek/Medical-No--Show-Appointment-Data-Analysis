@@ -19,8 +19,8 @@ SMS_received (1 or more messages sent to the patient)
 No-show (True or False)
 
 # Conclusion
-The patients registered at the hospital predominatly female accounting to more than 70% of total patients.
-Although Females accounted for most patients in the hospital, 65% of absentees were females
+- The patients registered at the hospital predominatly female accounting to more than 70% of total patients.
+- Although Females accounted for most patients in the hospital, 65% of absentees were females
 The Adults had the highest overall population in the hospital, while the Youths had the least... it is safe to say there are healthy youths in the community!
 Seniors had the lowest number of people who didn't show up while Adults had the highest
 The clinic doesn't operate on Sundays.
