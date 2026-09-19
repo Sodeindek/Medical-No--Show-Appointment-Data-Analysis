@@ -30,3 +30,4 @@ No-show (True or False)
 - Most patients had their appointments on the same day it was scheduled
 - No SMS were sent on the day and the day after missing appointments
 - The number of Present patients who had missed their initial appointment date increased upon sending SMS.
+- This extra line has been added for git and training purposes
